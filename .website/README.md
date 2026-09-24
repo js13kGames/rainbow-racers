@@ -1,4 +1,8 @@
 ---
+genres:
+  - racing
+  - sports
+  - arcade
 post: https://github.com/Antix-Development/rainbow-racers
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
